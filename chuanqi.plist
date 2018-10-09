@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.101.17/legend.ipa</string>
+                    <string>http://192.168.101.17/legendGame.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
